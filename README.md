@@ -1,5 +1,7 @@
 # A Landing Page Inspired by Framer
 
+![alt text](/assets/image.png)
+
 Initially started this project on **October 27th, 2024**, but added and pushed into a Github repository on **May 18th, 2025** as <u>I did not possess Git knowledge at that time.</u>
 
 This project was meant to **practice and showcase** my <u>frontend and UI design abilities</u> which include:

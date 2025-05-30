@@ -13,7 +13,7 @@ This project was meant to **practice and showcase** my <u>frontend and UI design
 - [**React**](https://react.dev/)
 - [**Tailwindcss**](https://tailwindcss.com/)
 
-This project is **not in production nor is it published publicly.** This website **does not function well** except the authentication system.
+This project is **not in production nor is it published publicly.** This website **does not function well** except the authentication system. It also does not support any other device screen other than desktop. Just a lil-project.
 
 ## Design Process
 
